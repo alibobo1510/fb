@@ -1,1 +1,1 @@
-http://api.hazome.com
+https://api.hazome.com
